@@ -1,3 +1,0 @@
-Test for using git bash
-hi bye
-yo man
